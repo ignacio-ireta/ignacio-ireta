@@ -1,10 +1,10 @@
-# 👋 Hey, I'm José Ignacio
+# Hey, I'm José Ignacio
 
 **AI Engineer** building end-to-end ML pipelines — from messy data to cloud deployment.
 
-Currently at **Kyndryl**, designing predictive models and ML infrastructure on AWS. Previously automated ETL processes at **Cinépolis**, driving a 3.82x increase in team productivity.
+Currently designing predictive models and ML infrastructure on AWS. Previously automated ETL processes at **Cinépolis**, driving a 3.82x increase in team productivity.
 
-## 🔧 What I work with
+## What I work with
 
 ```
 Languages:    Python · SQL · R · Kotlin
@@ -14,7 +14,7 @@ Data:         Pandas · PySpark · Parquet · ETL Pipelines
 Tools:        Git · Docker · Terraform · Jupyter
 ```
 
-## 🚀 Highlighted projects
+## Highlighted projects
 
 | Project | What it does |
 |---------|-------------|
@@ -24,13 +24,9 @@ Tools:        Git · Docker · Terraform · Jupyter
 | [**vadt**](https://github.com/ignacio-ireta/vadt) | Video accent detection tool |
 | 📱 **Reed** | RSVP speed reader for Android — *coming soon to Google Play* |
 
-## 📱 Reed — My shipped app
+## Reed — My shipped app
 
 **Reed RSVP Reader** displays text one word at a time at a fixed focal point for speed reading. Built with Jetpack Compose, supporting EPUB/PDF/TXT, 100-1000 WPM, and available in 4 languages (EN/ES/FR/NO). Privacy-first — nothing leaves your device.
-
-## 🎯 Where I'm headed
-
-Building toward a career in AI engineering in **Norway** 🇳🇴. Currently pursuing Georgia Tech's OMSCS, learning Norwegian (A2-B1), and shipping things that matter.
 
 ## 🌐 Find me
 
