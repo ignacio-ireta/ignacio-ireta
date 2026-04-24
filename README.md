@@ -1,38 +1,60 @@
-# Hey, I'm José Ignacio
+# Hi, I'm José Ignacio Esparza
 
-**AI Engineer** building end-to-end ML pipelines — from messy data to cloud deployment.
+I'm a deeply curious builder who genuinely enjoys the kind of work many people treat as obligation.
 
-Currently designing predictive models and ML infrastructure on AWS. Previously automated ETL processes at **Cinépolis**, driving a 3.82x increase in team productivity.
+I like understanding how systems behave — models, data pipelines, markets, biological processes, learning, products, even people trying to make sense of complicated things. Most of the time, I learn by building.
 
-## What I work with
+My interests span AI, data science, cognition, memory, health, finance, languages, and applied research. The common thread is simple: I like poking at the world until it reveals something interesting, then turning that into something useful.
 
-```
-Languages:    Python · SQL · R · Kotlin
-ML/AI:        XGBoost · Scikit-learn · TensorFlow · MLflow
-Cloud:        AWS SageMaker · Azure (DP-100, AZ-900) · GCP
-Data:         Pandas · PySpark · Parquet · ETL Pipelines
-Tools:        Git · Docker · Terraform · Jupyter
-```
+## Star project
 
-## Highlighted projects
+### ETF Portfolio Research
+A reproducible ETF portfolio research system for comparing allocation strategies under explicit assumptions.
 
-| Project | What it does |
-|---------|-------------|
-| [**AIIRG**](https://github.com/ignacio-ireta/AIIRG) | Business report generation using Google's Gemini API |
-| [**digital-image-processing**](https://github.com/ignacio-ireta/digital-image-processing) | Image processing techniques: filtering, edge detection, frequency domain, ML classification |
-| [**evolutionary-computation**](https://github.com/ignacio-ireta/evolutionary-computation-and-genetic-algorithms) | Genetic algorithms and evolutionary computation implementations |
-| [**vadt**](https://github.com/ignacio-ireta/vadt) | Video accent detection tool |
-| **Reed** | RSVP speed reader for Android — *coming soon to Google Play* |
+- configurable optimization pipelines
+- walk-forward backtesting to avoid lookahead bias
+- code-driven reports, metrics, and tracked experiments
+- research designed to make assumptions visible instead of hand-wavy
 
-## Reed — My shipped app
+## Selected work
 
-**Reed RSVP Reader** displays text one word at a time at a fixed focal point for speed reading. Built with Jetpack Compose, supporting EPUB/PDF/TXT, 100-1000 WPM, and available in 4 languages (EN/ES/FR/NO). Privacy-first — nothing leaves your device.
+### [Reed RSVP Reader](https://play.google.com/store/apps/details?id=com.reed.rsvp)
+An Android speed-reading app built with Jetpack Compose.
 
-## Find me
+- EPUB / PDF / TXT support
+- 100-1000 WPM reading modes
+- English, Spanish, French, and Norwegian localization
+- privacy-first: user content stays on-device
+- available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.reed.rsvp)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-ireta)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ignacio.ireta@outlook.com)
+### VADT
+A video accent detection project exploring speech and audio classification workflows.
+
+### Other technical interests
+Across past projects and coursework, I've worked with:
+- traditional ML
+- neural networks, especially CNNs
+- computer vision
+- graph algorithms
+- genetic and evolutionary algorithms
+
+## How I like to work
+- I explore broadly, but I like building concrete things
+- I care about reproducibility, clear thinking, and real usefulness
+- I'm especially drawn to problems that sit between engineering, research, and decision-making
+- I tend to have range, and I've learned to treat that as a strength
+
+I'm also currently learning violin, which is humbling in exactly the right way.
+
+## Technical toolkit
+- **Languages:** Python, SQL
+- **ML / Data:** XGBoost, scikit-learn, TensorFlow, Pandas, PySpark, MLflow
+- **Cloud / Infra:** AWS SageMaker, Azure, GCP, Docker, Terraform, Git
+
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/ignacio-ireta)
+- [Email](mailto:ignacio.ireta@outlook.com)
 
 ---
 
-*I build things that work. Let's talk.*
+*Curiosity first. Build second. Learn continuously.*
