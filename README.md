@@ -8,7 +8,7 @@ My interests span AI, data science, cognition, memory, health, finance, language
 
 ## Star project
 
-### ETF Portfolio Research
+### [ETF Portfolio Research](https://github.com/ignacio-ireta/etf-portfolio-research)
 A reproducible ETF portfolio research system for comparing allocation strategies under explicit assumptions.
 
 - configurable optimization pipelines
